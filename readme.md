@@ -201,27 +201,27 @@ def ROTencode(message, pos):
 
 ## Never forget
 - cyberchef
-- hashcrack
+- crackstation
 - dcode.fr
 
 ### Da fiup
 Link utili:
-Solver vari -> https://www.dcode.fr/en
-Substitution Solver -> https://www.guballa.de/substitution-solver - https://www.quipqiup.com/ - 
-Crack Hash -> https://crackstation.net/
-Base64 -> https://www.base64decode.org/
-Vigenere -> https://www.guballa.de/vigenere-solver
-Caesar Cipher -> https://www.dcode.fr/caesar-cipher
+- Solver vari -> https://www.dcode.fr/en
+- Substitution Solver -> https://www.guballa.de/substitution-solver - https://www.quipqiup.com/ -
+- Crack Hash -> https://crackstation.net/
+- Base64 -> https://www.base64decode.org/
+- Vigenere -> https://www.guballa.de/vigenere-solver
+- Caesar Cipher -> https://www.dcode.fr/caesar-cipher
 
 Altro insieme di strumenti:
-https://project-awesome.org/apsdehal/awesome-ctf
+- https://project-awesome.org/apsdehal/awesome-ctf
 
 Esami, testi e riferimento FIUP del corso:
-https://github.com/FIUP/Cybersecurity-UNIPD
+- https://github.com/FIUP/Cybersecurity-UNIPD
 
 Per riferimento a molti esercizi:
-https://github.com/augustozanellato/Cybersec2021/
+- https://github.com/augustozanellato/Cybersec2021/
 
 Per riferimento a strumenti utili:
-https://github.com/trincaw/CybersecurityUnipd
-https://github.com/matnut2/CybersecurityToolsUNIPD
+- https://github.com/trincaw/CybersecurityUnipd
+- https://github.com/matnut2/CybersecurityToolsUNIPD
