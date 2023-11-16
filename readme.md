@@ -12,6 +12,7 @@
 | List | Collection of items | `mylist = ["item1", "item2"]` | Yes | Yes | Yes | Yes |
 | Set | Collection of unique items | `myset = {"item1", "item2"}` | No | Yes | No | No |
 | Tuple | Collection of items | `mytuple = ("item1", "item2")` | Yes | No | Yes | Yes |
+
 Lists are the ones i'll probably use the most
 
 ```python
