@@ -2,7 +2,7 @@
 
 > [another small test](https://github.com/Mircodj/C0D1C3-X-L0R1S-B0RR4T4)
  
->[yy] (https://luminous-picture-b9d.notion.site/lordhavemercy-1-da89d647915b4b9998580ee40479a2ef)
+> [yy](https://luminous-picture-b9d.notion.site/lordhavemercy-1-da89d647915b4b9998580ee40479a2ef)
 # Variables and data types
 | Data Type | Description | Syntax |
 | --- | --- | --- |
