@@ -1,4 +1,5 @@
 > [test](https://coal-spell-50a.notion.site/Cyberzz-6144b9c5f5fd4ca99f205e31925d7a57?pvs=4). Just trying out markdown syntax!
+> [another small test](https://github.com/Mircodj/C0D1C3-X-L0R1S-B0RR4T4)
 # Variables and data types
 | Data Type | Description | Syntax |
 | --- | --- | --- |
